@@ -7,8 +7,8 @@
 * **Problem 3:** [Unsullied Army](https://www.hackerrank.com/contests/codeknight-3-0/challenges/unsullied-army-1)
 * **Problem 4:** [Bran's Good Number](https://www.hackerrank.com/contests/codeknight-3-0/challenges/brans-good-number)
 * **Problem 5:** [Free Folk Residence](https://www.hackerrank.com/contests/codeknight-3-0/challenges/free-folk-residence) 
-* **Problem 5:** [Westeros Postal Service](https://www.hackerrank.com/contests/codeknight-3-0/challenges/westeros-postal-service) 
-* **Problem 5:** [The Targaryen Treasure](https://www.hackerrank.com/contests/codeknight-3-0/challenges/the-targaryen-treasure)    
+* **Problem 6:** [Westeros Postal Service](https://www.hackerrank.com/contests/codeknight-3-0/challenges/westeros-postal-service) 
+* **Problem 7:** [The Targaryen Treasure](https://www.hackerrank.com/contests/codeknight-3-0/challenges/the-targaryen-treasure)    
 
 
 ### Leaderboard
