@@ -8,7 +8,7 @@ using namespace std;
 
 /*
 
-This is not the best implementation, the code has been written this wat for better understanding.
+This is not the best implementation, the code has been written this way for better understanding.
 
 */
 
