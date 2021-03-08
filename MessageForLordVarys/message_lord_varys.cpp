@@ -6,6 +6,12 @@ using namespace std;
 
 #define ll long long int
 
+/*
+
+This is not the best implementation, the code has been written this wat for better understanding.
+
+*/
+
 int check(ll n) {
     while(n > 0) {
         if(n % 10 == 9) {
@@ -36,11 +42,6 @@ int check(ll n) {
 int main() {
 
     FIO;
-
-    #ifndef ONLINE_JUDGE
-        freopen("input.txt", "r", stdin);
-        freopen("output.txt", "w", stdout);
-    #endif
 
     ll n;
     cin >> n;
