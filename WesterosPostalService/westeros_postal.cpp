@@ -8,11 +8,6 @@ using namespace std;
 int main() {
 
     FIO;
-    
-    #ifndef ONLINE_JUDGE
-        freopen("input.txt", "r", stdin);
-        freopen("output.txt", "w", stdout);
-    #endif
 
     int q;
 	cin >> q;
